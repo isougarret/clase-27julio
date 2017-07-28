@@ -1,0 +1,65 @@
+
+
+.green {
+	background-color: rgba(48,123,232,0.5)
+}
+
+.goldie{
+	background-color: rgba(232,165,12,0.5)
+}
+
+li {
+	list-style-type: none;
+	font-size: 20px;
+	padding-top: 20px;
+	text-transform: uppercase;
+}
+
+html {
+	text-align: center;
+
+}
+
+h3 {
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+	color: white;
+	border-bottom: solid 1px;
+	padding-bottom: 20px;
+
+}
+
+ul {
+	font-family: 'Dosis', sans-serif;
+	border-bottom: solid 1px;
+	padding-bottom: 10px;
+
+}
+
+
+ul {
+	line-height: 20px;
+}
+
+.price{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.name {
+	color: rgb(91,67,232);
+}
+
+h1 {
+	font-family: 'Fascinate', cursive;
+	font-family: 'Pacifico', cursive;
+	font-size: 150px;
+	padding: 80px;
+	color: white;
+
+}
+
+.cover {
+	background: url("https://image.freepik.com/free-vector/nice-background-with-colorful-geometric-shapes_1159-456.jpg");
+	background-repeat: cover;
+}
